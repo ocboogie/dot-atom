@@ -1,27 +1,17 @@
 "*":
   "atom-beautify":
-    css:
-      indent_size: 2
     general:
-      _analyticsUserId: "306e0e3e-deba-4184-9129-8a9590211261"
-    js:
-      indent_size: 2
-      indent_with_tabs: true
+      _analyticsUserId: "cad2d34e-f67f-4a84-a737-fb4bd2309654"
+  "atom-terminal": {}
   core:
     telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
-      "one-dark-syntax"
+      "atom-material-syntax"
     ]
-  editor:
-    invisibles: {}
-    showIndentGuide: true
-    softTabs: false
-    tabType: "hard"
   "exception-reporting":
-    userId: "b58afc5d-b9f7-958f-5943-1ea87e9236bf"
-  linter: {}
-  "terminal-plus":
-    core: {}
+    userId: "32a40756-3ebe-12c7-3f36-fad0c47094f7"
+  "open-terminal-here":
+    command: "\"C:\\Program Files (x86)\\cmder\\Cmder.exe\" /START \"%cd%\""
   welcome:
     showOnStartup: false
