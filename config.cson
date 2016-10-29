@@ -1,0 +1,27 @@
+"*":
+  "atom-beautify":
+    css:
+      indent_size: 2
+    general:
+      _analyticsUserId: "306e0e3e-deba-4184-9129-8a9590211261"
+    js:
+      indent_size: 2
+      indent_with_tabs: true
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    softTabs: false
+    tabType: "hard"
+  "exception-reporting":
+    userId: "b58afc5d-b9f7-958f-5943-1ea87e9236bf"
+  linter: {}
+  "terminal-plus":
+    core: {}
+  welcome:
+    showOnStartup: false
