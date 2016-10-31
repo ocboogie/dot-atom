@@ -2,13 +2,23 @@
   "atom-beautify":
     general:
       _analyticsUserId: "cad2d34e-f67f-4a84-a737-fb4bd2309654"
+    js:
+      indent_with_tabs: true
   "atom-terminal": {}
+  "atom-terminal-panel":
+    clearCommandInput: false
+    enableConsoleStartupInfo: false
+    enableConsoleSuggestionsDropdown: false
   core:
     telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
-      "atom-material-syntax"
+      "one-dark-syntax"
     ]
+  editor:
+    showIndentGuide: true
+    tabLength: 4
+    tabType: "hard"
   "exception-reporting":
     userId: "32a40756-3ebe-12c7-3f36-fad0c47094f7"
   "open-terminal-here":
