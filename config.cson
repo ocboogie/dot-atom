@@ -21,6 +21,10 @@
     tabType: "hard"
   "exception-reporting":
     userId: "32a40756-3ebe-12c7-3f36-fad0c47094f7"
+  minimap:
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
   "open-terminal-here":
     command: "\"C:\\Program Files (x86)\\cmder\\Cmder.exe\" /START \"%cd%\""
   welcome:

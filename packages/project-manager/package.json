@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
+        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
-        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
+        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
+        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116930-3548-1648xst"
+      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116102-4820-1papdhz"
     ]
   ],
-  "_from": "..\\d-116930-3548-1xccce5\\package.tgz",
-  "_id": "project-manager@3.3.2",
+  "_from": "..\\d-116102-4820-zqcjvv\\package.tgz",
+  "_id": "project-manager@3.3.3",
   "_inCache": true,
   "_installable": true,
   "_location": "/project-manager",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
+    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
-    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
+    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
+    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116930-3548-1xccce5\\package.tgz",
-  "_shasum": "468bef5c6401a921769fb04cb279eaceae1a5254",
+  "_resolved": "file:..\\d-116102-4820-zqcjvv\\package.tgz",
+  "_shasum": "d87fef401850b597159913516a44072ad0d1fa98",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116930-3548-1xccce5\\package.tgz",
-  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116930-3548-1648xst",
+  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116102-4820-zqcjvv\\package.tgz",
+  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116102-4820-1papdhz",
   "bugs": {
     "url": "https://github.com/danielbrodin/atom-project-manager/issues"
   },
@@ -88,8 +88,8 @@
   "dependencies": {
     "atom-project-util": "^4.0.0",
     "atom-space-pen-views": "^2.0.3",
-    "change-case": "^2.3.1",
-    "etch": "^0.6.3",
+    "change-case": "^3.0.0",
+    "etch": "^0.8.0",
     "findit": "^2.0.0",
     "mobx": "^2.6.0",
     "season": "^5.4.1",
@@ -136,5 +136,5 @@
   "scripts": {
     "test": "apm test && ./node_modules/.bin/eslint lib/**"
   },
-  "version": "3.3.2"
+  "version": "3.3.3"
 }
