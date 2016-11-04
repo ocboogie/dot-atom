@@ -2,6 +2,8 @@
   "atom-beautify":
     general:
       _analyticsUserId: "cad2d34e-f67f-4a84-a737-fb4bd2309654"
+    json:
+        indent_size: 2
   "atom-terminal-panel":
     clearCommandInput: false
     enableConsoleStartupInfo: false
@@ -26,3 +28,6 @@
     command: "\"C:\\Program Files (x86)\\cmder\\Cmder.exe\" /START \"%cd%\""
   welcome:
     showOnStartup: false
+'.json.source':
+  'editor':
+    'tabLength': 2
