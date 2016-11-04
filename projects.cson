@@ -6,4 +6,11 @@
     ]
     devMode: true
   }
+  {
+    title: ".Atom"
+    paths: [
+      "C:\\Users\\Boogie\\.atom"
+    ]
+    devMode: true
+  }
 ]
