@@ -13,4 +13,10 @@
     ]
     devMode: true
   }
+  {
+    title: "App Launcher"
+    paths: [
+      "D:\\NewDocuments\\Code\\Node.js\\app-launcher"
+    ]
+  }
 ]
