@@ -2,6 +2,8 @@
   "atom-beautify":
     general:
       _analyticsUserId: "cad2d34e-f67f-4a84-a737-fb4bd2309654"
+    html:
+      indent_size: 2
     json:
       indent_size: 2
   "atom-material-ui":
@@ -48,6 +50,9 @@
     command: "\"C:\\Program Files (x86)\\cmder\\Cmder.exe\" /START \"%cd%\""
   welcome:
     showOnStartup: false
+".html":
+  editor:
+    tabLength: 2
 ".json.source":
   editor:
     tabLength: 2
