@@ -2,42 +2,43 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
+        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
-        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
+        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
+        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161011-10404-12t1t7e"
+      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161014-10760-1o5hmxn"
     ]
   ],
-  "_from": "..\\d-1161011-10404-3bmpak\\package.tgz",
-  "_id": "atom-ternjs@0.16.0",
+  "_from": "..\\d-1161014-10760-1gi81ah\\package.tgz",
+  "_id": "atom-ternjs@0.16.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/atom-ternjs",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
+    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
-    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
+    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
+    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-1161011-10404-3bmpak\\package.tgz",
-  "_shasum": "f3309b4ae8aae22f6d8e126dd62e27ab6f2a4bd8",
+  "_resolved": "file:..\\d-1161014-10760-1gi81ah\\package.tgz",
+  "_shasum": "264dae90e4bd0683eba52e541465129ea9ed7008",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161011-10404-3bmpak\\package.tgz",
-  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161011-10404-12t1t7e",
+  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161014-10760-1gi81ah\\package.tgz",
+  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161014-10760-1o5hmxn",
   "activationHooks": [
-    "language-javascript:grammar-used"
+    "language-javascript:grammar-used",
+    "language-babel:grammar-used"
   ],
   "bugs": {
     "url": "https://github.com/tststs/atom-ternjs/issues"
@@ -90,5 +91,5 @@
     "type": "git",
     "url": "git+https://github.com/tststs/atom-ternjs.git"
   },
-  "version": "0.16.0"
+  "version": "0.16.1"
 }

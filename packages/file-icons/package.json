@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
+        "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
-        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
+        "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
+        "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116103-2680-1jzkn6t"
+      "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161012-9004-uknv71"
     ]
   ],
-  "_from": "..\\d-116103-2680-ehw4ci\\package.tgz",
-  "_id": "file-icons@1.7.24",
+  "_from": "..\\d-1161012-9004-1wqc72b\\package.tgz",
+  "_id": "file-icons@1.7.25",
   "_inCache": true,
   "_installable": true,
   "_location": "/file-icons",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
+    "raw": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
-    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
+    "rawSpec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
+    "spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116103-2680-ehw4ci\\package.tgz",
-  "_shasum": "9139cd60acc5891fa1ba699da7114ba1a621c061",
+  "_resolved": "file:..\\d-1161012-9004-1wqc72b\\package.tgz",
+  "_shasum": "3e363a0422a935a6a27974e7f60c86421f3d3958",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-116103-2680-ehw4ci\\package.tgz",
-  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-116103-2680-1jzkn6t",
+  "_spec": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\d-1161012-9004-1wqc72b\\package.tgz",
+  "_where": "C:\\Users\\Boogie\\AppData\\Local\\Temp\\apm-install-dir-1161012-9004-uknv71",
   "bugs": {
     "url": "https://github.com/DanBrooker/file-icons/issues"
   },
@@ -57,5 +57,5 @@
     "type": "git",
     "url": "git+https://github.com/DanBrooker/file-icons.git"
   },
-  "version": "1.7.24"
+  "version": "1.7.25"
 }

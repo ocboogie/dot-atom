@@ -30,6 +30,8 @@
       "one-dark-syntax"
     ]
   editor:
+    fontFamily: "Fira Code"
+    fontSize: 16
     scrollPastEnd: true
     showIndentGuide: true
     tabLength: 4
@@ -38,6 +40,7 @@
   "genesis-ui":
     distractionFree: {}
   minimap:
+    absoluteMode: true
     plugins:
       cursorline: true
       cursorlineDecorationsZIndex: 0
